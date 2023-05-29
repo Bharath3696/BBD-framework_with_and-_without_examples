@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="0.270182">
+    <testcase classname="trying taggedhooks concept" name="loggin in crm pro" time="0.269309">
+        <system-out>
+            <![CDATA[Then checked login..........................................................passed
+Then user seeing home page..................................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="trying taggedhooks concept" name="contact page" time="0.000506">
+        <system-out>
+            <![CDATA[Then user clicked contact...................................................passed
+Then user enters contact details............................................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="trying taggedhooks concept" name="deals page" time="0.000367">
+        <system-out>
+            <![CDATA[Then user enters deal page..................................................passed
+Then user file deals details................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
